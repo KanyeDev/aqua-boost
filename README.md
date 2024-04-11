@@ -10,10 +10,7 @@ This web app was developed for Aqua Boost company to enhance efficiency and prod
 Aqua Boost can be accessed through [here](https://aqua-boost.web.app/).
 
 ## Usage Guide
-Unfortunately, I can't provide access to the system because it is being used by a private company. However, I can provide a video guide of how the system operates through [here](www.vidoelinkaquaboost.come).
-
-## Contributors
-None
+Unfortunately, I can't provide access to the system because it is being used by a private company. However, I can provide a video guide of how the system operates through [here](www.vidoelinkaquaboost.come)
 
 ## Features
 
@@ -29,3 +26,6 @@ None
 - Manage sales by able to filter through all sales
 - Alert on buy and sell[to admin]
 - Print receipt
+
+## Contributors
+None
