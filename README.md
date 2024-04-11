@@ -1,16 +1,16 @@
-# aquaboost
+# Aqua Boost
 
-A new Flutter project.
+## Description
+Aqua Boost is a fish feed production factory. The entire process, from ingredient delivery, storing, processing, accounting, and sales, is managed by the developed system.
 
-## Getting Started
+## Motivation
+This web app was developed for Aqua Boost company to enhance efficiency and productivity.
 
-This project is a starting point for a Flutter application.
+## Quick Start
+Aqua Boost can be accessed through [here](https://aqua-boost.web.app/).
 
-A few resources to get you started if this is your first Flutter project:
+## Usage Guide
+Unfortunately, I can't provide access to the system because it is being used by a private company. However, I can provide a video guide of how the system operates through [here](www.vidoelinkaquaboost.come).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contributors
+None
