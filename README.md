@@ -14,3 +14,18 @@ Unfortunately, I can't provide access to the system because it is being used by 
 
 ## Contributors
 None
+
+## Features
+
+- Add new product to inventory
+- Add products per bag delivered
+- Remove products per bag from store
+- Update products per bag from store
+- Check current available product in store
+- Download/view report[sales, inventory, buy, sell] on week/month/year
+- Alert admin when products changes[anomalies]
+- Authenticate users before update[add, remove, or update product]
+- Verify which employee is adding or removing products from store
+- Manage sales by able to filter through all sales
+- Alert on buy and sell[to admin]
+- Print receipt
